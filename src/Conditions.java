@@ -32,7 +32,7 @@ public class Conditions {
             System.out.println("ok");
         }
         if (testScore != maxScore){
-            System.out.println("almost");
+            System.out.println("almost done");
         }
 
     }
